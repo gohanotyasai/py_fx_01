@@ -1,6 +1,6 @@
-ano/
 data/
-src/ano*
+data_out/
+
 
 # Files created through the unit test.
 src/test/data/output_*
